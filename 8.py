@@ -21,10 +21,12 @@ def area_of_circle(r):
     return PI * r ** 2 """
 
 
-def judge(s):
+""" def judge(s):
     s_1 = s[::-1]
     if s == s_1:
         print("Yes!")
     else:
         print("No!")
-judge("1234567890oknbvcswertyuikjmnbvcxdertyu")
+judge("1234567890oknbvcswertyuikjmnbvcxdertyu") """
+
+
